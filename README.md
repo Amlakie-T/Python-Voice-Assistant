@@ -39,7 +39,7 @@ This Python script implements a voice assistant similar to Alexa, capable of per
 
    - Start the voice assistant and speak commands like:
      - "What's the weather in Ethiopia?"
-     - "Remind me to call John in 30 minutes."
+     - "Remind me to call Amlakie in 30 minutes."
      - "Play music Despacito."
 
 4. **Author**
