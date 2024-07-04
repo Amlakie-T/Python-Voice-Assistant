@@ -44,7 +44,7 @@ This Python script implements a voice assistant similar to Alexa, capable of per
 
 4. **Author**
 
-   - Developed by [Your Name](https://github.com/Amlakie-T)
+   - Developed by [Amlakie-T](https://github.com/Amlakie-T)
 
 ---
 
